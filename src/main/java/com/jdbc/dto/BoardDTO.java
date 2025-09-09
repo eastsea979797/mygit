@@ -6,6 +6,7 @@ import lombok.Data;
 @Data
 public class BoardDTO {
 
+//COMMIT TEST
 
 	private int num;
 
